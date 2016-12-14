@@ -1,6 +1,6 @@
 {
   "name": "bodewell-plugin-disk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Disk resource plugin for bodewell system monitor",
   "main": "disk.js",
   "scripts": {
